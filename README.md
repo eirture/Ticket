@@ -7,6 +7,7 @@ Python use to query train tickets demo
     $ python3 parse_station.py > stations.py
     ```
 2. add dict name to stations.py
+    stations.py is a dictionary for the city name conversation.
    ![stations_dict](res/2016-10-27_16-44-46.png)
 3. run like this
     ```
