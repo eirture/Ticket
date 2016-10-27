@@ -3,10 +3,12 @@ Python use to query train tickets demo
 
 # How it Run
 1. run parse_station.py like this
+    
     ```
     $ python3 parse_station.py > stations.py
     ```
 2. add a dictionary name to stations.py
+    
     It is a dictionary for the city name conversation.
     ![stations_dict](res/2016-10-27_16-44-46.png)
 3. run like this
